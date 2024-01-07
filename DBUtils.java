@@ -1,2 +1,3 @@
+Im updating in dev branch..
 added this line for updates..
 This file contains the DB connection logic...
